@@ -909,7 +909,7 @@
 			top: 0;
 			width: 100%;
 			height: 100%;
-			background: url("images/overlay.png");
+			background: url("images/overlay.png"); 
 		}
 
 		.image img {
@@ -2155,16 +2155,16 @@
   display: inline-block;
   z-index: 9;
   width: 40px;
-  height: 40px;
-  font-size: 11px;
-  font-weight: 400;
+  height: 40px;           
+  font-size: 13px;
+  font-weight: bold;
   color: #fff;
   text-align: center;
   line-height: 3;
   letter-spacing: 1px;
   text-transform: uppercase;
   background: #515769;
-  border-radius: 3px;
+  border-radius: 20px;
   visibility: hidden;
   opacity: 0;
   padding: 5px;
