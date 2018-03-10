@@ -2016,7 +2016,7 @@
 		}
 
 			#footer ul.actions li {
-				font-size: 1.25em;
+				font-size: 0.9em;
 				margin: 0;
 			}
 
@@ -2112,6 +2112,18 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+
+/*  submission  */
+
+    #submission {
+		background: url("images/overlay.png"), url("../../images/three.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+
+
 
 /* Contact */
 
