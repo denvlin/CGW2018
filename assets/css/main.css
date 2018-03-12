@@ -735,6 +735,27 @@
 				background-image: url("images/arrow.svg");
 			}
 
+
+/* BUTTON for REGISTRATION */
+press{
+    background-color:#009999;
+    color:white;
+    text-align: center;
+
+
+
+
+
+
+
+
+
+        }
+
+
+
+
+
 /* Form */
 
 	form {
@@ -2273,3 +2294,5 @@
 .btn{height:30px;}
 
 		
+/* 浮動廣告 */
+.
